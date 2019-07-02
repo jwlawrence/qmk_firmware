@@ -1,1 +1,1 @@
-# The default keymap for Redox
+# A custom keymap for Redox by jwlawrence
